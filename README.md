@@ -4,4 +4,7 @@ basic program of c++
 
 
 
-11
+
+
+
+2.0
